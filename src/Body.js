@@ -1,6 +1,6 @@
 import App from "./App"
 import Login from "./Login"
-import React, {useState} from "react";
+import React from "react";
 
 class Body extends React.Component{
 
@@ -21,11 +21,10 @@ class Body extends React.Component{
     }
     
     render(){
-    
-        const loggedIn = this.state.loggedIn;
 
-    
-        if(this.props.loggedIn=true){
+        const loggedIn=this.state.loggedIn;
+
+        if(this.props.loggedIn===true){
       return (
         <App />
         )
