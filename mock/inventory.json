@@ -1,0 +1,52 @@
+{
+    "Joey Logano":{
+        "series":"cup",
+        "discount":0,
+        "twin":5,
+        "twinxl":1,
+        "full":14,
+        "queen":7,
+        "king":22,
+        "calking":0
+    },
+    "Will Power":{
+        "series":"indycar",
+        "discount":0,
+        "twin":2,
+        "twinxl":0,
+        "full":4,
+        "queen":6,
+        "king":12,
+        "calking":1
+    },
+    "Ryan Blaney":{
+        "series":"cup",
+        "discount":0,
+        "twin":15,
+        "twinxl":9,
+        "full":31,
+        "queen":44,
+        "king":36,
+        "calking":4
+    },
+    "Parker Kligerman":{
+        "series":"xfinity",
+        "discount":0,
+        "twin":17,
+        "twinxl":4,
+        "full":25,
+        "queen":12,
+        "king":15,
+        "calking":2
+    },
+    "Justin Haley":{
+        "series":"cup",
+        "discount":15,
+        "twin":3,
+        "twinxl":1,
+        "full":5,
+        "queen":4,
+        "king":1,
+        "calking":0
+    }
+}
